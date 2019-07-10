@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonTap</string>
+    <string name="messeage">ここにメッセージを表示します</string>
+    <string name="pleaseTap">PleaseTap</string>
+</resources>
